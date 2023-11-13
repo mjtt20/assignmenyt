@@ -13,7 +13,7 @@ function publicBusFare(value) {
         return 'Everyone has succeeded in sitting at Micro Bus';
     }
     else{
-        return 'Expenses of all passengers on the Local bus is', localBus;
+        return localBus;
     }
         
 }
